@@ -1,6 +1,14 @@
 # kOps Resource Provider
 
+**This is still WIP, please stand by**
+
 The kOps Resource Provider lets you manage [kOps](https://kops.sigs.k8s.io) resources.
+
+This pulumi provider is based upon the [terraform-provider-kops](https://github.com/eddycharly/terraform-provider-kops).
+
+If you encounter a bug or missing feature, first check the [`pulumi-kops` repo](https://github.com/ederst/pulumi-kops/issues).
+
+However, if that doesn't turn up anything, please consult the source [`terraform-provider-kops` repo](https://github.com/eddycharly/terraform-provider-kops/issues).
 
 ## Installing
 
